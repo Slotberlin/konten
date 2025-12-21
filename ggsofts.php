@@ -4,18 +4,18 @@
 
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# product: http://ogp.me/ns/product#">
     <meta charset="utf-8" />
-    <meta name="title" content="ANGKER4D âš¡ï¸ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini" />
+    <meta name="title" content="ANGKER4D ⚡️ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini" />
     <meta name="description"
         content="ANGKER4D Link daftar slot GGSOFT terpercaya dengan pilihan game gacor dan peluang menang tinggi setiap hari. Nikmati pengalaman bermain yang cepat, aman, dan stabil dengan fitur lengkap, bonus menarik, serta jackpot yang mudah meledak." />
     <meta name="robots" content="index,follow" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no" />
     <meta name="format-detection" content="telephone=no" />
-    <title>ANGKER4D âš¡ï¸ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini</title>
+    <title>ANGKER4D ⚡️ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini</title>
     <link rel="canonical" href="https://alma.bg/">
     <link rel="amphtml" href="https://ggsoft-angker4d-gacor.pages.dev/" />
     <meta property="og:url" content="https://alma.bg/">
     <meta property="og:type" content="product" />
-    <meta property="og:title" content="ANGKER4D âš¡ï¸ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini" />
+    <meta property="og:title" content="ANGKER4D ⚡️ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini" />
     <meta property="og:image" content="https://veldrive.com/2ScobPQy/angker4d-GGSOFT.jpg" />
     <meta property="og:description"
         content="ANGKER4D Link daftar slot GGSOFT terpercaya dengan pilihan game gacor dan peluang menang tinggi setiap hari. Nikmati pengalaman bermain yang cepat, aman, dan stabil dengan fitur lengkap, bonus menarik, serta jackpot yang mudah meledak." />
@@ -25,7 +25,7 @@
     <meta name="twitter:domain" content="https://alma.bg/">
     <meta name="twitter:site" content="" />
     <meta name="twitter:creator" content="" />
-    <meta name="twitter:title" content="ANGKER4D âš¡ï¸ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini" />
+    <meta name="twitter:title" content="ANGKER4D ⚡️ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini" />
     <meta name="twitter:description"
         content="ANGKER4D Link daftar slot GGSOFT terpercaya dengan pilihan game gacor dan peluang menang tinggi setiap hari. Nikmati pengalaman bermain yang cepat, aman, dan stabil dengan fitur lengkap, bonus menarik, serta jackpot yang mudah meledak." />
     <meta name="twitter:image" content="https://veldrive.com/2ScobPQy/angker4d-GGSOFT.jpg" />
@@ -61,7 +61,7 @@
 {
   "@context": "https://schema.org/",
   "@type": "Product",
-  "name": "ANGKER4D âš¡ï¸ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini",
+  "name": "ANGKER4D ⚡️ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini",
   "image": "https://veldrive.com/2ScobPQy/seoteri.png",
   "description": "ANGKER4D Link daftar slot GGSOFT terpercaya dengan pilihan game gacor dan peluang menang tinggi setiap hari. Nikmati pengalaman bermain yang cepat, aman, dan stabil dengan fitur lengkap, bonus menarik, serta jackpot yang mudah meledak.",
   "sku": "FC/PO-80-A4-N-V2",
@@ -144,7 +144,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "Product",
-  "name": "ANGKER4D âš¡ï¸ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini",
+  "name": "ANGKER4D ⚡️ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini",
   "url": "https://veldrive.com/2ScobPQy/angker4d-GGSOFT.jpg",
   "image": [
     "https://veldrive.com/2ScobPQy/angker4d-GGSOFT.jpg"
@@ -172,12 +172,12 @@
       "@type": "WebSite",
       "@id": "https://alma.bg/#website",
       "url": "https://alma.bg/",
-      "name": "ANGKER4D âš¡ï¸ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini",
+      "name": "ANGKER4D ⚡️ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini",
       "description": "ANGKER4D Link daftar slot GGSOFT terpercaya dengan pilihan game gacor dan peluang menang tinggi setiap hari. Nikmati pengalaman bermain yang cepat, aman, dan stabil dengan fitur lengkap, bonus menarik, serta jackpot yang mudah meledak.",
       "inLanguage": "id-ID",
       "publisher": {
         "@type": "Organization",
-        "name": "ANGKER4D âš¡ï¸ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini",
+        "name": "ANGKER4D ⚡️ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini",
         "url": "https://alma.bg/",
         "logo": {
           "@type": "ImageObject",
@@ -194,7 +194,7 @@
       "@type": "WebPage",
       "@id": "https://alma.bg/#webpage",
       "url": "https://alma.bg/",
-      "name": "ANGKER4D âš¡ï¸ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini",
+      "name": "ANGKER4D ⚡️ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini",
       "isPartOf": {
         "@id": "https://alma.bg/#website"
       },
@@ -214,7 +214,7 @@
     {
       "@type": "Organization",
       "@id": "https://alma.bg/#organization",
-      "name": "ANGKER4D âš¡ï¸ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini",
+      "name": "ANGKER4D ⚡️ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini",
       "url": "https://alma.bg/",
       "logo": "https://veldrive.com/2ScobPQy/angker4d-logo.png",
       "sameAs": [
@@ -236,7 +236,7 @@
     {
       "@type": "Product",
       "@id": "https://alma.bg/#product",
-      "name": "ANGKER4D âš¡ï¸ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini",
+      "name": "ANGKER4D ⚡️ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini",
       "image": "https://veldrive.com/2ScobPQy/angker4d-GGSOFT.jpg",
       "description": "ANGKER4D Link daftar slot GGSOFT terpercaya dengan pilihan game gacor dan peluang menang tinggi setiap hari. Nikmati pengalaman bermain yang cepat, aman, dan stabil dengan fitur lengkap, bonus menarik, serta jackpot yang mudah meledak.",
       "sku": "FC/PO-80-A4-N-V2",
@@ -322,7 +322,7 @@
     },
     {
       "@type": "Product",
-      "name": "ANGKER4D âš¡ï¸ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini",
+      "name": "ANGKER4D ⚡️ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini",
       "image": "https://veldrive.com/2ScobPQy/seoteri.png",
       "description": "ANGKER4D Link daftar slot GGSOFT terpercaya dengan pilihan game gacor dan peluang menang tinggi setiap hari. Nikmati pengalaman bermain yang cepat, aman, dan stabil dengan fitur lengkap, bonus menarik, serta jackpot yang mudah meledak.",
       "url": "https://alma.bg/",
@@ -1283,7 +1283,7 @@
                         <div class="product-info-main">
                             <div class="page-title-wrapper&#x20;product">
                                 <h1 class="page-title"><span class="base" data-ui-id="page-title-wrapper"
-                                        itemprop="name">ANGKER4D âš¡ï¸ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini</span></h1>
+                                        itemprop="name">ANGKER4D ⚡️ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini</span></h1>
                             </div>
                             <div class="product-reviews-summary short">
                                 <div class="rating-summary"><span class="label"><span>Rating:</span></span>
@@ -1710,12 +1710,12 @@
                         </style>
                         <article id="ANGKER4D-Slotgacor-GGSOFT" itemscope itemtype="https://schema.org/Article">
                             <header>
-                                <h2 class="h1-look">ANGKER4D âš¡ï¸ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini</h2>
+                                <h2 class="h1-look">ANGKER4D ⚡️ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini</h2>
                                 <p>
                                     <span itemprop="author" itemscope itemtype="https://schema.org/Person">
                                         Ditulis oleh <strong itemprop="name">Team Seo Ikan Teri</strong>
                                     </span>
-                                    Â· <time itemprop="dateModified" datetime="2025-11-20">Pembaruan: 1 Desember
+                                    · <time itemprop="dateModified" datetime="2025-11-20">Pembaruan: 1 Desember
                                         2025</time>
                                 </p>
                                 <p class="lede" itemprop="description">
@@ -1725,19 +1725,19 @@
                                 </p>
                             </header>
                             <section id="Slot Gacor Permainan GGSOFT">
-                                <h2>âš¡ï¸ Slot Gacor Permainan GGSOFT</h2>
+                                <h2>⚡️ Slot Gacor Permainan GGSOFT</h2>
                                 <p>
                                     <a href="https://alma.bg/">
                                         Slot GGSOFT</a> merupakan permain slot digital yang sedang populer karena permainannya
                                         memiliki grafik yang indah di mata dunia permainan penuh warna, animasi lembut, serta efek visual yang membuat pemain betah berlama-lama menikmati setiap putaran.
-                                        Yang pastinya akan mempermudah pemain di situs ini meraih keuntungan yang besar. Banyak pemain menyebut karya GGSOFT sebagai â€œSlot Gacorâ€ 
+                                        Yang pastinya akan mempermudah pemain di situs ini meraih keuntungan yang besar. Banyak pemain menyebut karya GGSOFT sebagai “Slot Gacor” 
                                         karena pengalaman bermainnya terasa lebih hidup, responsif, dan memunculkan sensasi permainan yang menyenangkan.
 
                                 </p>
                             </section>
 
                             <section id="Permainan Lengkap Yang Ada Di GGSOFT">
-                                <h2>âš¡ï¸ Permainan Lengkap Yang Ada Di GGSOFT</h2>
+                                <h2>⚡️ Permainan Lengkap Yang Ada Di GGSOFT</h2>
                                 <p>Sebagai penyedia game slot <a href="https://alma.bg/">ANGKER4D</a>
                                     menyiapkan game-game terlengkap dan selalu update terbaru yang pastinya tidak membuat pemain di situs ini 
                                     merasa bosan. Apa lagi sekarang ada fitur update game terbaru pada plinko, bounce aztec, bounce ball, dan 
@@ -1746,7 +1746,7 @@
                             </section>
 
                             <section id="Slot Gampang Menang">
-                                <h2>âš¡ï¸ Slot Gampang Menang</h2>
+                                <h2>⚡️ Slot Gampang Menang</h2>
                                 <p> Disitus ANGKER4D ini selalu memberikan kemenangan kemenangan kepada membernya
                                     dan disini disediakan ringkat RTP yang akurat di atas 95% pastinya gak akan bikin member rugi deh.
                                     Dengan adanya Fitur <a href="https://alma.bg/">slot gacor</a> Angker4d dapat menjamin kemenangan
@@ -1758,9 +1758,9 @@
                         <!-- ko template: getTemplate() --><!-- /ko -->
                     </div>
                     <div class="faq-review-section" id="faq-review">
-                        <h2 class="section-title">ðŸ’¬ Pertanyaan Umum Tentang ANGKER4D</h2>
+                        <h2 class="section-title">💬 Pertanyaan Umum Tentang ANGKER4D</h2>
                         <div id="faq-list"></div>
-                        <h2 class="section-title">ðŸŒŸ Ulasan Pemain ANGKER4D</h2>
+                        <h2 class="section-title">🌟 Ulasan Pemain ANGKER4D</h2>
                         <div id="review-list"></div>
                     </div>
 
@@ -1788,7 +1788,7 @@
                                 div.className = 'review-item';
                                 div.innerHTML = `<div class="review-author">${r.author.name}</div>
                    <div class="review-text">"${r.reviewBody}"</div>
-                   <div class="review-rating">â­â­â­â­â­</div>`;
+                   <div class="review-rating">⭐⭐⭐⭐⭐</div>`;
                                 reviewContainer.appendChild(div);
                             });
 
@@ -2037,7 +2037,7 @@
                 </div>
             </div>
         </footer> <span class="justCountPage" style="display: none"></span> <button type="button" title="Back To Top"
-            class="btt-button action"></button> <small class="copyright"><span>Copyright Â© 2020 DatascripMall.ID, All
+            class="btt-button action"></button> <small class="copyright"><span>Copyright © 2020 DatascripMall.ID, All
                 rights reserved.</span></small>
     </div>
     <div data-mage-init='{"Amasty_Fpc\/js\/track":{"url":"https:\/\/datascripmall.id\/amasty_fpc\/reports\/"}}'></div>
@@ -2055,10 +2055,10 @@
     <script>var BASE_URL = 'https\u003A\u002F\u002Fdatascripmall.id\u002F'; var require = { 'baseUrl': 'https\u003A\u002F\u002Fdatascripmall.id\u002Fstatic\u002Fversion1757989473\u002Ffrontend\u002FDatascrip\u002Fdefault\u002Fid_ID' };</script>
     <script type="text/javascript"
         src="https://datascripmall.id/static/version1757989473/_cache/merged/46360effb5055e6ec92654b272e8dd28.min.js"></script>
-    <script>window.getWpCookie = function (name) { match = document.cookie.match(new RegExp(name + '=([^;]+)')); if (match) return decodeURIComponent(match[1].replace(/\+/g, ' ')); }; window.dataLayer = window.dataLayer || []; var dlObjects = [{ "pageName": "ANGKER4D âš¡ï¸ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini", "pageType": "product", "google_tag_params": { "ecomm_pagetype": "product", "ecomm_prodid": "FC\/PO-80-A4-N-V2", "ecomm_totalvalue": "5000.00", "ecomm_category": "Stationery & Office Supplies" }, "ecommerce": { "detail": { "products": [{ "name": "ANGKER4D âš¡ï¸ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini", "id": "FC\/PO-80-A4-N-V2", "price": "5000.00", "brand": "PAPERONE", "category": "Stationery & Office Supplies", "dimension4": "In stock", "dimension7": "No", "dimension5": "3", "dimension6": "5" }] }, "currencyCode": "IDR" } }]; for (var i in dlObjects) { window.dataLayer.push(dlObjects[i]); }
+    <script>window.getWpCookie = function (name) { match = document.cookie.match(new RegExp(name + '=([^;]+)')); if (match) return decodeURIComponent(match[1].replace(/\+/g, ' ')); }; window.dataLayer = window.dataLayer || []; var dlObjects = [{ "pageName": "ANGKER4D ⚡️ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini", "pageType": "product", "google_tag_params": { "ecomm_pagetype": "product", "ecomm_prodid": "FC\/PO-80-A4-N-V2", "ecomm_totalvalue": "5000.00", "ecomm_category": "Stationery & Office Supplies" }, "ecommerce": { "detail": { "products": [{ "name": "ANGKER4D ⚡️ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini", "id": "FC\/PO-80-A4-N-V2", "price": "5000.00", "brand": "PAPERONE", "category": "Stationery & Office Supplies", "dimension4": "In stock", "dimension7": "No", "dimension5": "3", "dimension6": "5" }] }, "currencyCode": "IDR" } }]; for (var i in dlObjects) { window.dataLayer.push(dlObjects[i]); }
         var wpCookies = ['wp_customerId', 'wp_customerGroup']; wpCookies.map(function (cookieName) { var cookieValue = window.getWpCookie(cookieName); if (cookieValue) { var dlObject = {}; dlObject[cookieName.replace('wp_', '')] = cookieValue; window.dataLayer.push(dlObject); } });</script>
     <script>(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-WC98S7N');</script>
-    <script>window.getWpGA4Cookie = function (name) { match = document.cookie.match(new RegExp(name + '=([^;]+)')); if (match) return decodeURIComponent(match[1].replace(/\+/g, ' ')); }; window.dataLayer = window.dataLayer || []; var dl4Objects = [{ "pageName": "ANGKER4D âš¡ï¸ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini", "pageType": "product", "ecommerce": { "items": [{ "item_name": "ANGKER4D âš¡ï¸ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini", "item_id": "489", "price": "5000.00", "item_category": "Stationery & Office Supplies", "currency": "IDR", "item_stock_status": "In stock", "item_sale_product": "No", "item_reviews_count": "3", "item_reviews_score": "5" }] }, "event": "view_item" }]; for (var i in dl4Objects) { window.dataLayer.push(dl4Objects[i]); }
+    <script>window.getWpGA4Cookie = function (name) { match = document.cookie.match(new RegExp(name + '=([^;]+)')); if (match) return decodeURIComponent(match[1].replace(/\+/g, ' ')); }; window.dataLayer = window.dataLayer || []; var dl4Objects = [{ "pageName": "ANGKER4D ⚡️ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini", "pageType": "product", "ecommerce": { "items": [{ "item_name": "ANGKER4D ⚡️ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini", "item_id": "489", "price": "5000.00", "item_category": "Stationery & Office Supplies", "currency": "IDR", "item_stock_status": "In stock", "item_sale_product": "No", "item_reviews_count": "3", "item_reviews_score": "5" }] }, "event": "view_item" }]; for (var i in dl4Objects) { window.dataLayer.push(dl4Objects[i]); }
         var wpGA4Cookies = ['wp_ga4_customerId', 'wp_ga4_customerGroup']; wpGA4Cookies.map(function (cookieName) { var cookieValue = window.getWpGA4Cookie(cookieName); if (cookieValue) { var dl4Object = {}; dl4Object[cookieName.replace('wp_ga4_', '')] = cookieValue; window.dataLayer.push(dl4Object); } });</script>
     <script>(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-WC98S7N');</script>
     <script>console.log('No facebook pixel is configured, please log in as a admin and then visit Stores -> Facebook -> Setup -> Get Started');</script>
@@ -2127,7 +2127,7 @@
             });
         });</script>
     <script
-        type="text/x-magento-init">{".breadcrumbs":{"breadcrumbs":{"categoryUrlSuffix":".html","useCategoryPathInUrl":0,"product":"ANGKER4D âš¡ï¸ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini"}}}</script>
+        type="text/x-magento-init">{".breadcrumbs":{"breadcrumbs":{"categoryUrlSuffix":".html","useCategoryPathInUrl":0,"product":"ANGKER4D ⚡️ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini"}}}</script>
     <script>requirejs(['jquery'], function ($) { $(document).ready(function () { if ($('.reviews-actions .action.view').length) { var submitReviewUrl = $('.reviews-actions .action.view').attr('href').replace("#reviews", "#review-form"); var submitReviewLabel = "Tambahkan Ulasan"; $('<a/>', { class: "action add", href: submitReviewUrl, text: submitReviewLabel }).insertAfter('.reviews-actions .action.view'); } }); });</script>
     <script>require(['jquery', 'Magento_Ui/js/modal/modal', 'jquery/ui'], function ($, modal) {
             var isMobile = function () { let check = false; (function (a) { if (/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino/i.test(a) || /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0, 4))) check = true; })(navigator.userAgent || navigator.vendor || window.opera); return check; }; var options = { type: 'popup', title: '#KiniLebihMudah dengan Mobile Apps', responsive: true, modalClass: 'modal-alert', buttons: false }; if (isMobile()) {
@@ -2161,7 +2161,7 @@
     <script type="text/x-magento-init">{"body":{"addToWishlist":{"productType":"simple"}}}</script>
     <script>function copyFunction() { var inputDump = document.createElement('input'), hrefText = window.location.href; document.body.appendChild(inputDump); inputDump.value = hrefText; inputDump.select(); document.execCommand('copy'); document.body.removeChild(inputDump); alert("Link Copied"); }</script>
     <script
-        type="text/x-magento-init">{"[data-gallery-role=gallery-placeholder]":{"mage/gallery/gallery":{"mixins":["magnifier/magnify"],"magnifierOpts":{"fullscreenzoom":"5","top":null,"left":null,"width":null,"height":null,"eventType":"hover","enabled":"true","mode":"inside"},"data":[{"thumb":"https:\/\/datascripmall.id\/media\/catalog\/product\/cache\/527926b0266a601a8462234d57289dc0\/f\/8\/f8f0be41-fbf8-45d2-8435-be4313242db0.jpg","img":"https:\/\/datascripmall.id\/media\/catalog\/product\/cache\/95a5307f46190cd7a50cf0819ebeb220\/f\/8\/f8f0be41-fbf8-45d2-8435-be4313242db0.jpg","full":"https:\/\/datascripmall.id\/media\/catalog\/product\/cache\/ac47fa9e49dade1868442d9c19aae1fe\/f\/8\/f8f0be41-fbf8-45d2-8435-be4313242db0.jpg","caption":"ANGKER4D âš¡ï¸ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini","position":"9","isMain":true,"type":"image","videoUrl":null,"thumb_webp":"https:\/\/datascripmall.id\/media\/webp_image\/catalog\/product\/cache\/527926b0266a601a8462234d57289dc0\/f\/8\/f8f0be41-fbf8-45d2-8435-be4313242db0.webp","img_webp":"https:\/\/datascripmall.id\/media\/webp_image\/catalog\/product\/cache\/95a5307f46190cd7a50cf0819ebeb220\/f\/8\/f8f0be41-fbf8-45d2-8435-be4313242db0.webp","full_webp":"https:\/\/datascripmall.id\/media\/webp_image\/catalog\/product\/cache\/ac47fa9e49dade1868442d9c19aae1fe\/f\/8\/f8f0be41-fbf8-45d2-8435-be4313242db0.webp"}],"options":{"nav":"thumbs","loop":true,"keyboard":true,"arrows":true,"allowfullscreen":true,"showCaption":false,"width":500,"thumbwidth":81,"thumbheight":81,"height":500,"transitionduration":500,"transition":"slide","navarrows":true,"navtype":"slides","navdir":"vertical"},"fullscreen":{"nav":"thumbs","loop":true,"navdir":"horizontal","navarrows":false,"navtype":"slides","arrows":true,"showCaption":true,"transition":"slide","keyboard":true},"breakpoints":{"mobile":{"conditions":{"max-width":"767px"},"options":{"options":{"nav":"dots"}}}}}}}</script>
+        type="text/x-magento-init">{"[data-gallery-role=gallery-placeholder]":{"mage/gallery/gallery":{"mixins":["magnifier/magnify"],"magnifierOpts":{"fullscreenzoom":"5","top":null,"left":null,"width":null,"height":null,"eventType":"hover","enabled":"true","mode":"inside"},"data":[{"thumb":"https:\/\/datascripmall.id\/media\/catalog\/product\/cache\/527926b0266a601a8462234d57289dc0\/f\/8\/f8f0be41-fbf8-45d2-8435-be4313242db0.jpg","img":"https:\/\/datascripmall.id\/media\/catalog\/product\/cache\/95a5307f46190cd7a50cf0819ebeb220\/f\/8\/f8f0be41-fbf8-45d2-8435-be4313242db0.jpg","full":"https:\/\/datascripmall.id\/media\/catalog\/product\/cache\/ac47fa9e49dade1868442d9c19aae1fe\/f\/8\/f8f0be41-fbf8-45d2-8435-be4313242db0.jpg","caption":"ANGKER4D ⚡️ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini","position":"9","isMain":true,"type":"image","videoUrl":null,"thumb_webp":"https:\/\/datascripmall.id\/media\/webp_image\/catalog\/product\/cache\/527926b0266a601a8462234d57289dc0\/f\/8\/f8f0be41-fbf8-45d2-8435-be4313242db0.webp","img_webp":"https:\/\/datascripmall.id\/media\/webp_image\/catalog\/product\/cache\/95a5307f46190cd7a50cf0819ebeb220\/f\/8\/f8f0be41-fbf8-45d2-8435-be4313242db0.webp","full_webp":"https:\/\/datascripmall.id\/media\/webp_image\/catalog\/product\/cache\/ac47fa9e49dade1868442d9c19aae1fe\/f\/8\/f8f0be41-fbf8-45d2-8435-be4313242db0.webp"}],"options":{"nav":"thumbs","loop":true,"keyboard":true,"arrows":true,"allowfullscreen":true,"showCaption":false,"width":500,"thumbwidth":81,"thumbheight":81,"height":500,"transitionduration":500,"transition":"slide","navarrows":true,"navtype":"slides","navdir":"vertical"},"fullscreen":{"nav":"thumbs","loop":true,"navdir":"horizontal","navarrows":false,"navtype":"slides","arrows":true,"showCaption":true,"transition":"slide","keyboard":true},"breakpoints":{"mobile":{"conditions":{"max-width":"767px"},"options":{"options":{"nav":"dots"}}}}}}}</script>
     <script
         type="text/x-magento-init">{"[data-gallery-role=gallery-placeholder]":{"Magento_ProductVideo/js/fotorama-add-video-events":{"videoData":[{"mediaType":"image","videoUrl":null,"isBase":true}],"videoSettings":[{"playIfBase":"0","showRelated":"0","videoAutoRestart":"0"}],"optionsVideoData":[]}}}</script>
     <script
@@ -2185,7 +2185,7 @@
     <script
         type="text/x-magento-init">{"body":{"awBlogAjax":{"url":"https:\/\/datascripmall.id\/aw_blog\/block\/render\/id\/489\/"}}}</script>
     <script
-        type="text/x-magento-init">{"*":{"Magento_Catalog/js/product/view/provider":{"data":{"items":{"489":{"add_to_cart_button":{"post_data":"{\"action\":\"https:\\\/\\\/datascripmall.id\\\/checkout\\\/cart\\\/add\\\/uenc\\\/%25uenc%25\\\/product\\\/489\\\/\",\"data\":{\"product\":\"489\",\"uenc\":\"%uenc%\"}}","url":"https:\/\/datascripmall.id\/checkout\/cart\/add\/uenc\/%25uenc%25\/product\/489\/","required_options":true},"add_to_compare_button":{"post_data":null,"url":"{\"action\":\"https:\\\/\\\/datascripmall.id\\\/catalog\\\/product_compare\\\/add\\\/\",\"data\":{\"product\":\"489\",\"uenc\":\"aHR0cHM6Ly9kYXRhc2NyaXBtYWxsLmlkL3BhcGVyb25lLWtlcnRhcy1mb3RvY29weS1hNC04MC1ncmFtLmh0bWw,\"}}","required_options":null},"price_info":{"final_price":5000,"max_price":5000,"max_regular_price":5000,"minimal_regular_price":5000,"special_price":null,"minimal_price":5000,"regular_price":5000,"formatted_prices":{"final_price":"<span class=\"price\">Rp5.000,00<\/span>","max_price":"<span class=\"price\">Rp5.000,00<\/span>","minimal_price":"<span class=\"price\">Rp5.000,00<\/span>","max_regular_price":"<span class=\"price\">Rp5.000,00<\/span>","minimal_regular_price":null,"special_price":null,"regular_price":"<span class=\"price\">Rp5.000,00<\/span>"},"extension_attributes":{"msrp":{"msrp_price":"<span class=\"price\">Rp0,00<\/span>","is_applicable":"","is_shown_price_on_gesture":"","msrp_message":"","explanation_message":"Our price is lower than the manufacturer&#039;s &quot;minimum advertised price.&quot; As a result, we cannot show you the price in catalog or the product page. <br><br> You have no obligation to purchase the product once you know the price. You can simply remove the item from your cart."},"tax_adjustments":{"final_price":5000,"max_price":5000,"max_regular_price":5000,"minimal_regular_price":5000,"special_price":5000,"minimal_price":5000,"regular_price":5000,"formatted_prices":{"final_price":"<span class=\"price\">Rp5.000,00<\/span>","max_price":"<span class=\"price\">Rp5.000,00<\/span>","minimal_price":"<span class=\"price\">Rp5.000,00<\/span>","max_regular_price":"<span class=\"price\">Rp5.000,00<\/span>","minimal_regular_price":null,"special_price":"<span class=\"price\">Rp5.000,00<\/span>","regular_price":"<span class=\"price\">Rp5.000,00<\/span>"}},"weee_attributes":[],"weee_adjustment":"<span class=\"price\">Rp5.000,00<\/span>"}},"images":[{"url":"https:\/\/datascripmall.id\/media\/catalog\/product\/cache\/b3d34eb5e3ba135b83bc1e7ce3a5f96c\/f\/8\/f8f0be41-fbf8-45d2-8435-be4313242db0.jpg","code":"recently_viewed_products_grid_content_widget","height":211,"width":211,"label":"ANGKER4D âš¡ï¸ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini","resized_width":211,"resized_height":211},{"url":"https:\/\/datascripmall.id\/media\/catalog\/product\/cache\/d92e50836c10018c4e303fe2f7c8e227\/f\/8\/f8f0be41-fbf8-45d2-8435-be4313242db0.jpg","code":"recently_viewed_products_list_content_widget","height":340,"width":270,"label":"ANGKER4D âš¡ï¸ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini","resized_width":270,"resized_height":340},{"url":"https:\/\/datascripmall.id\/media\/catalog\/product\/cache\/328a475a185e414a09085984f0082e9b\/f\/8\/f8f0be41-fbf8-45d2-8435-be4313242db0.jpg","code":"recently_viewed_products_images_names_widget","height":90,"width":75,"label":"ANGKER4D âš¡ï¸ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini","resized_width":75,"resized_height":90},{"url":"https:\/\/datascripmall.id\/media\/catalog\/product\/cache\/b3d34eb5e3ba135b83bc1e7ce3a5f96c\/f\/8\/f8f0be41-fbf8-45d2-8435-be4313242db0.jpg","code":"recently_compared_products_grid_content_widget","height":211,"width":211,"label":"ANGKER4D âš¡ï¸ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini","resized_width":211,"resized_height":211},{"url":"https:\/\/datascripmall.id\/media\/catalog\/product\/cache\/d92e50836c10018c4e303fe2f7c8e227\/f\/8\/f8f0be41-fbf8-45d2-8435-be4313242db0.jpg","code":"recently_compared_products_list_content_widget","height":340,"width":270,"label":"ANGKER4D âš¡ï¸ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini","resized_width":270,"resized_height":340},{"url":"https:\/\/datascripmall.id\/media\/catalog\/product\/cache\/328a475a185e414a09085984f0082e9b\/f\/8\/f8f0be41-fbf8-45d2-8435-be4313242db0.jpg","code":"recently_compared_products_images_names_widget","height":90,"width":75,"label":"ANGKER4D âš¡ï¸ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini","resized_width":75,"resized_height":90}],"url":"https:\/\/datascripmall.id\/paperone-kertas-fotocopy-a4-80-gram.html","id":489,"name":"ANGKER4D âš¡ï¸ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini","type":"simple","is_salable":"1","store_id":1,"currency_code":"IDR","extension_attributes":{"review_html":"   <div class=\"product-reviews-summary short\"> <div class=\"rating-summary\"><span class=\"label\"><span>Rating:<\/span><\/span> <div class=\"rating-result\" title=\"100%\"><span style=\"width:100%\"><span>100%<\/span><\/span><\/div><\/div> <!-- <div class=\"reviews-actions\"><a class=\"action view\" href=\"https:\/\/datascripmall.id\/paperone-kertas-fotocopy-a4-80-gram.html#reviews\">(3)<\/a><\/div> --><\/div>","wishlist_button":{"post_data":null,"url":"{\"action\":\"https:\\\/\\\/datascripmall.id\\\/wishlist\\\/index\\\/add\\\/\",\"data\":{\"product\":489,\"uenc\":\"aHR0cHM6Ly9kYXRhc2NyaXBtYWxsLmlkL3BhcGVyb25lLWtlcnRhcy1mb3RvY29weS1hNC04MC1ncmFtLmh0bWw,\"}}","required_options":null}}}},"store":"1","currency":"IDR","productCurrentScope":"website"}}}}</script>
+        type="text/x-magento-init">{"*":{"Magento_Catalog/js/product/view/provider":{"data":{"items":{"489":{"add_to_cart_button":{"post_data":"{\"action\":\"https:\\\/\\\/datascripmall.id\\\/checkout\\\/cart\\\/add\\\/uenc\\\/%25uenc%25\\\/product\\\/489\\\/\",\"data\":{\"product\":\"489\",\"uenc\":\"%uenc%\"}}","url":"https:\/\/datascripmall.id\/checkout\/cart\/add\/uenc\/%25uenc%25\/product\/489\/","required_options":true},"add_to_compare_button":{"post_data":null,"url":"{\"action\":\"https:\\\/\\\/datascripmall.id\\\/catalog\\\/product_compare\\\/add\\\/\",\"data\":{\"product\":\"489\",\"uenc\":\"aHR0cHM6Ly9kYXRhc2NyaXBtYWxsLmlkL3BhcGVyb25lLWtlcnRhcy1mb3RvY29weS1hNC04MC1ncmFtLmh0bWw,\"}}","required_options":null},"price_info":{"final_price":5000,"max_price":5000,"max_regular_price":5000,"minimal_regular_price":5000,"special_price":null,"minimal_price":5000,"regular_price":5000,"formatted_prices":{"final_price":"<span class=\"price\">Rp5.000,00<\/span>","max_price":"<span class=\"price\">Rp5.000,00<\/span>","minimal_price":"<span class=\"price\">Rp5.000,00<\/span>","max_regular_price":"<span class=\"price\">Rp5.000,00<\/span>","minimal_regular_price":null,"special_price":null,"regular_price":"<span class=\"price\">Rp5.000,00<\/span>"},"extension_attributes":{"msrp":{"msrp_price":"<span class=\"price\">Rp0,00<\/span>","is_applicable":"","is_shown_price_on_gesture":"","msrp_message":"","explanation_message":"Our price is lower than the manufacturer&#039;s &quot;minimum advertised price.&quot; As a result, we cannot show you the price in catalog or the product page. <br><br> You have no obligation to purchase the product once you know the price. You can simply remove the item from your cart."},"tax_adjustments":{"final_price":5000,"max_price":5000,"max_regular_price":5000,"minimal_regular_price":5000,"special_price":5000,"minimal_price":5000,"regular_price":5000,"formatted_prices":{"final_price":"<span class=\"price\">Rp5.000,00<\/span>","max_price":"<span class=\"price\">Rp5.000,00<\/span>","minimal_price":"<span class=\"price\">Rp5.000,00<\/span>","max_regular_price":"<span class=\"price\">Rp5.000,00<\/span>","minimal_regular_price":null,"special_price":"<span class=\"price\">Rp5.000,00<\/span>","regular_price":"<span class=\"price\">Rp5.000,00<\/span>"}},"weee_attributes":[],"weee_adjustment":"<span class=\"price\">Rp5.000,00<\/span>"}},"images":[{"url":"https:\/\/datascripmall.id\/media\/catalog\/product\/cache\/b3d34eb5e3ba135b83bc1e7ce3a5f96c\/f\/8\/f8f0be41-fbf8-45d2-8435-be4313242db0.jpg","code":"recently_viewed_products_grid_content_widget","height":211,"width":211,"label":"ANGKER4D ⚡️ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini","resized_width":211,"resized_height":211},{"url":"https:\/\/datascripmall.id\/media\/catalog\/product\/cache\/d92e50836c10018c4e303fe2f7c8e227\/f\/8\/f8f0be41-fbf8-45d2-8435-be4313242db0.jpg","code":"recently_viewed_products_list_content_widget","height":340,"width":270,"label":"ANGKER4D ⚡️ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini","resized_width":270,"resized_height":340},{"url":"https:\/\/datascripmall.id\/media\/catalog\/product\/cache\/328a475a185e414a09085984f0082e9b\/f\/8\/f8f0be41-fbf8-45d2-8435-be4313242db0.jpg","code":"recently_viewed_products_images_names_widget","height":90,"width":75,"label":"ANGKER4D ⚡️ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini","resized_width":75,"resized_height":90},{"url":"https:\/\/datascripmall.id\/media\/catalog\/product\/cache\/b3d34eb5e3ba135b83bc1e7ce3a5f96c\/f\/8\/f8f0be41-fbf8-45d2-8435-be4313242db0.jpg","code":"recently_compared_products_grid_content_widget","height":211,"width":211,"label":"ANGKER4D ⚡️ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini","resized_width":211,"resized_height":211},{"url":"https:\/\/datascripmall.id\/media\/catalog\/product\/cache\/d92e50836c10018c4e303fe2f7c8e227\/f\/8\/f8f0be41-fbf8-45d2-8435-be4313242db0.jpg","code":"recently_compared_products_list_content_widget","height":340,"width":270,"label":"ANGKER4D ⚡️ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini","resized_width":270,"resized_height":340},{"url":"https:\/\/datascripmall.id\/media\/catalog\/product\/cache\/328a475a185e414a09085984f0082e9b\/f\/8\/f8f0be41-fbf8-45d2-8435-be4313242db0.jpg","code":"recently_compared_products_images_names_widget","height":90,"width":75,"label":"ANGKER4D ⚡️ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini","resized_width":75,"resized_height":90}],"url":"https:\/\/datascripmall.id\/paperone-kertas-fotocopy-a4-80-gram.html","id":489,"name":"ANGKER4D ⚡️ Link Daftar Slot Gacor GGSOFT Gampang Menang Hari Ini","type":"simple","is_salable":"1","store_id":1,"currency_code":"IDR","extension_attributes":{"review_html":"   <div class=\"product-reviews-summary short\"> <div class=\"rating-summary\"><span class=\"label\"><span>Rating:<\/span><\/span> <div class=\"rating-result\" title=\"100%\"><span style=\"width:100%\"><span>100%<\/span><\/span><\/div><\/div> <!-- <div class=\"reviews-actions\"><a class=\"action view\" href=\"https:\/\/datascripmall.id\/paperone-kertas-fotocopy-a4-80-gram.html#reviews\">(3)<\/a><\/div> --><\/div>","wishlist_button":{"post_data":null,"url":"{\"action\":\"https:\\\/\\\/datascripmall.id\\\/wishlist\\\/index\\\/add\\\/\",\"data\":{\"product\":489,\"uenc\":\"aHR0cHM6Ly9kYXRhc2NyaXBtYWxsLmlkL3BhcGVyb25lLWtlcnRhcy1mb3RvY29weS1hNC04MC1ncmFtLmh0bWw,\"}}","required_options":null}}}},"store":"1","currency":"IDR","productCurrentScope":"website"}}}}</script>
     <script>require(['jquery', 'domReady!'], function ($) { $('#recaptcha-caa20ac351216e6f76edced1efe7c61fff5f4796-container').appendTo('#newsletter-validate-detail'); });</script>
     <script
         type="text/x-magento-init">{"#recaptcha-caa20ac351216e6f76edced1efe7c61fff5f4796-container":{"Magento_Ui/js/core/app":{"components":{"recaptcha-caa20ac351216e6f76edced1efe7c61fff5f4796":{"settings":{"rendering":{"sitekey":"6Lc-RHQoAAAAALBnLiH9afy1uTLcYHMDHrFMQM_m","badge":"inline","size":"invisible","theme":"light","hl":""},"invisible":true},"component":"Magento_ReCaptchaFrontendUi\/js\/reCaptcha","reCaptchaId":"recaptcha-caa20ac351216e6f76edced1efe7c61fff5f4796"}}}}}</script>
