@@ -6,6 +6,7 @@
 <meta name="csrf_nonce" content="3:1766473557:74LYxh4ZJ-nUkVeUz9ZgRNUB645W:e9ed2cbd5f9d7b188d6ab067d0cea602fb75804c684eda8e2ba822cf4cbefe31">
 <meta name="uaid_nonce" content="3:1766473557:NAp4VgDCV_hxip7xB8vbDk__xKTD:743e3b94526b06bc9cbe6e21bd55a1c70b3706be3512a8dc736796dd97f95056">
 <meta name="css_dist_path" content="https://florbook.com/en/">
+<link rel="amphtml" href="https://gaibflorbook.pages.dev/">
 <meta name="dist" content="202512221766447548">
 <meta name="description" content="GAIB4D merupakan link situs slot deposit 5000 terbaru dengan RTP tinggi, menyediakan game slot lengkap dari provider populer, sistem transaksi cepat, aman, dan cocok untuk pemain dengan modal kecil.">
 <meta name="robots" content="max-image-preview:large">
@@ -30,7 +31,7 @@
 <meta property="og:description" content="GAIB4D merupakan link situs slot deposit 5000 terbaru dengan RTP tinggi, menyediakan game slot lengkap dari provider populer, sistem transaksi cepat, aman, dan cocok untuk pemain dengan modal kecil.">
 <meta property="og:type" content="product">
 <meta property="og:url" content="https://florbook.com/en/">
-<meta property="og:image" content="https://i.etsystatic.com/14265565/r/il/2e9b94/6755807925/il_1080xN.6755807925_tiep.jpg">
+<meta property="og:image" content="https://veldrive.com/6qssXvXg/GAIB4D5000.png">
 <meta property="product:price:amount" content="14.52">
 <meta property="product:price:currency" content="AUD">
 <meta property="al:ios:url" content="etsy://listing/1886689479?ref=applinks_ios">
@@ -96,23 +97,23 @@
     {
       "@type": "ImageObject",
       "author": "GAIB4D",
-      "contentURL": "https://i.etsystatic.com/14265565/r/il/2e9b94/6755807925/il_fullxfull.6755807925_tiep.jpg",
+      "contentURL": "https://veldrive.com/6qssXvXg/LAUTZEUS LOGO.png",
       "description": "GAIB4D Login",
-      "thumbnail": "https://i.etsystatic.com/14265565/r/il/2e9b94/6755807925/il_340x270.6755807925_tiep.jpg"
+      "thumbnail": "https://veldrive.com/6qssXvXg/LAUTZEUS LOGO.png"
     },
     {
       "@type": "ImageObject",
       "author": "GAIB4D",
-      "contentURL": "https://i.etsystatic.com/14265565/r/il/fa5985/6755800147/il_fullxfull.6755800147_nptd.jpg",
+      "contentURL": "https://veldrive.com/6qssXvXg/gaib4d5000.png",
       "description": "GAIB4D Slot",
-      "thumbnail": "https://i.etsystatic.com/14265565/r/il/fa5985/6755800147/il_340x270.6755800147_nptd.jpg"
+      "thumbnail": "https://veldrive.com/6qssXvXg/gaib4d5000.png"
     },
     {
       "@type": "ImageObject",
       "author": "GAIB4D",
-      "contentURL": "https://i.etsystatic.com/14265565/r/il/f56a68/6755789161/il_fullxfull.6755789161_dgjx.jpg",
+      "contentURL": "https://veldrive.com/6qssXvXg/gaib4d5000.png",
       "description": "situs GAIB4D",
-      "thumbnail": "https://i.etsystatic.com/14265565/r/il/f56a68/6755789161/il_340x270.6755789161_dgjx.jpg"
+      "thumbnail": "https://veldrive.com/6qssXvXg/LAUTZEUS LOGO.png"
     }
     /* Tambahkan image lain sesuai kebutuhan */
   ],
@@ -121,7 +122,7 @@
     "@type": "Brand",
     "name": "GAIB4D"
   },
-  "logo": "https://i.etsystatic.com/14265565/r/isla/f2522d/55673090/isla_500x500.55673090_75n5z60o.jpg",
+  "logo": "https://veldrive.com/6qssXvXg/gaib4d-icon.jpg",
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "4.9",
@@ -669,7 +670,7 @@ if (clientloggerIsEnabled) {
                 show-scrollable-thumbnails">
 
         <ul class="wt-list-unstyled wt-overflow-hidden wt-position-relative carousel-pane-list" style="padding-top: 80%;" data-carousel-pane-list="" tabindex="0">
-                    <li class=" wt-position-absolute wt-width-full wt-height-full wt-position-top wt-position-left carousel-pane" data-carousel-pane="" data-index="0" data-image-id="6755807925" data-palette-listing-image=""><img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded" alt="GAIB4D Login" data-carousel-first-image="" data-perf-group="main-product-image" src="https://veldrive.com/6qssXvXg/GAIB4D5000.png" srcset="https://veldrive.com/6qssXvXg/GAIB4D5000.png 1x, https://i.etsystatic.com/14265565/r/il/2e9b94/6755807925/il_1588xN.6755807925_tiep.jpg 2x" fetchpriority="high" data-original-image-width="1600" data-src-zoom-image="https://i.etsystatic.com/14265565/r/il/2e9b94/6755807925/il_fullxfull.6755807925_tiep.jpg" data-index="0"></li>
+                    <li class=" wt-position-absolute wt-width-full wt-height-full wt-position-top wt-position-left carousel-pane" data-carousel-pane="" data-index="0" data-image-id="6755807925" data-palette-listing-image=""><img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded" alt="GAIB4D Login" data-carousel-first-image="" data-perf-group="main-product-image" src="https://veldrive.com/6qssXvXg/GAIB4D5000.png" srcset="https://veldrive.com/6qssXvXg/GAIB4D5000.png 1x, https://i.etsystatic.com/14265565/r/il/2e9b94/6755807925/il_1588xN.6755807925_tiep.jpg 2x" fetchpriority="high" data-original-image-width="1600" data-src-zoom-image="https://veldrive.com/6qssXvXg/LAUTZEUS LOGO.png" data-index="0"></li>
                     <li class="wt-display-none  wt-position-absolute wt-width-full wt-height-full wt-position-top wt-position-left carousel-pane" data-carousel-pane="" data-index="1" data-image-id="6755800147" data-palette-listing-image=""><img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded" alt="GAIB4D Slot" loading="lazy" src="https://veldrive.com/6qssXvXg/GAIB4D5000.png" srcset="https://veldrive.com/6qssXvXg/GAIB4D5000.png 1x, https://i.etsystatic.com/14265565/r/il/fa5985/6755800147/il_1588xN.6755800147_nptd.jpg 2x" data-perf-group="secondary-product-image" data-original-image-width="3000" data-src-zoom-image="https://i.etsystatic.com/14265565/r/il/fa5985/6755800147/il_fullxfull.6755800147_nptd.jpg" data-index="1"></li>
                     <li class="wt-display-none  wt-position-absolute wt-width-full wt-height-full wt-position-top wt-position-left carousel-pane" data-carousel-pane="" data-index="2" data-image-id="6755789161" data-palette-listing-image=""><img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded" alt="situs GAIB4D" loading="lazy" src="https://veldrive.com/6qssXvXg/GAIB4D5000.png" srcset="https://veldrive.com/6qssXvXg/GAIB4D5000.png 1x, https://i.etsystatic.com/14265565/r/il/f56a68/6755789161/il_1588xN.6755789161_dgjx.jpg 2x" data-perf-group="secondary-product-image" data-original-image-width="3000" data-src-zoom-image="https://i.etsystatic.com/14265565/r/il/f56a68/6755789161/il_fullxfull.6755789161_dgjx.jpg" data-index="2"></li>
                     <li class="wt-display-none  wt-position-absolute wt-width-full wt-height-full wt-position-top wt-position-left carousel-pane" data-carousel-pane="" data-index="3" data-image-id="6707745248" data-palette-listing-image=""><img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded" alt="link GAIB4D" loading="lazy" src="https://veldrive.com/6qssXvXg/GAIB4D5000.png" srcset="https://veldrive.com/6qssXvXg/GAIB4D5000.png 1x, https://i.etsystatic.com/14265565/r/il/f926f9/6707745248/il_1588xN.6707745248_mgy9.jpg 2x" data-perf-group="secondary-product-image" data-original-image-width="3000" data-src-zoom-image="https://i.etsystatic.com/14265565/r/il/f926f9/6707745248/il_fullxfull.6707745248_mgy9.jpg" data-index="3"></li>
@@ -1799,7 +1800,7 @@ if (clientloggerIsEnabled) {
 <button data-clg-id="WtButton" class="wt-btn wt-btn--filled wt-btn--icon wt-btn--light wt-position-absolute wt-position-left wt-vertical-center wt-shadow-elevation-3 wt-ml-xs-2" data-image-overlay-prev="true" aria-label="previous"><span class="wt-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M16,21a0.994,0.994,0,0,1-.664-0.253L5.5,12l9.841-8.747a1,1,0,0,1,1.328,1.494L8.5,12l8.159,7.253A1,1,0,0,1,16,21Z"></path></svg></span></button>
 <button data-clg-id="WtButton" class="wt-btn wt-btn--filled wt-btn--icon wt-btn--light wt-position-absolute wt-position-right wt-vertical-center wt-shadow-elevation-3 wt-mr-xs-2" data-image-overlay-next="true" aria-label="next"><span class="wt-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8,21a1,1,0,0,1-.664-1.747L15.5,12,7.336,4.747A1,1,0,0,1,8.664,3.253L18.5,12,8.664,20.747A0.994,0.994,0,0,1,8,21Z"></path></svg></span></button>
             <ul class="wt-list-unstyled wt-overflow-hidden image-overlay-list wt-position-relative wt-vertical-center wt-display-flex-xs wt-justify-content-center" style="padding-top: 80%;" data-image-overlay-list="" tabindex="0">
-                    <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background" data-listing-image="" data-index="0" data-image-id="6755807925"><img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center image-overlay-image--portrait" alt="GAIB4D Login" data-delay-src="https://i.etsystatic.com/14265565/r/il/2e9b94/6755807925/il_1140xN.6755807925_tiep.jpg" data-delay-srcset="https://i.etsystatic.com/14265565/r/il/2e9b94/6755807925/il_1140xN.6755807925_tiep.jpg 1x, https://i.etsystatic.com/14265565/r/il/2e9b94/6755807925/il_1588xN.6755807925_tiep.jpg 2x" data-original-image-width="1600" data-original-image-height="2000" data-index="0" data-src-zoom-image="https://i.etsystatic.com/14265565/r/il/2e9b94/6755807925/il_fullxfull.6755807925_tiep.jpg"></li>
+                    <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background" data-listing-image="" data-index="0" data-image-id="6755807925"><img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center image-overlay-image--portrait" alt="GAIB4D Login" data-delay-src="https://i.etsystatic.com/14265565/r/il/2e9b94/6755807925/il_1140xN.6755807925_tiep.jpg" data-delay-srcset="https://i.etsystatic.com/14265565/r/il/2e9b94/6755807925/il_1140xN.6755807925_tiep.jpg 1x, https://i.etsystatic.com/14265565/r/il/2e9b94/6755807925/il_1588xN.6755807925_tiep.jpg 2x" data-original-image-width="1600" data-original-image-height="2000" data-index="0" data-src-zoom-image="https://veldrive.com/6qssXvXg/LAUTZEUS LOGO.png"></li>
                     <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background" data-listing-image="" data-index="1" data-image-id="6755800147"><img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center image-overlay-image--landscape" alt="GAIB4D Slot" data-delay-src="https://i.etsystatic.com/14265565/r/il/fa5985/6755800147/il_1140xN.6755800147_nptd.jpg" data-delay-srcset="https://i.etsystatic.com/14265565/r/il/fa5985/6755800147/il_1140xN.6755800147_nptd.jpg 1x, https://i.etsystatic.com/14265565/r/il/fa5985/6755800147/il_1588xN.6755800147_nptd.jpg 2x" data-original-image-width="3000" data-original-image-height="2000" data-index="1" data-src-zoom-image="https://i.etsystatic.com/14265565/r/il/fa5985/6755800147/il_fullxfull.6755800147_nptd.jpg"></li>
                     <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background" data-listing-image="" data-index="2" data-image-id="6755789161"><img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center image-overlay-image--landscape" alt="situs GAIB4D" data-delay-src="https://i.etsystatic.com/14265565/r/il/f56a68/6755789161/il_1140xN.6755789161_dgjx.jpg" data-delay-srcset="https://i.etsystatic.com/14265565/r/il/f56a68/6755789161/il_1140xN.6755789161_dgjx.jpg 1x, https://i.etsystatic.com/14265565/r/il/f56a68/6755789161/il_1588xN.6755789161_dgjx.jpg 2x" data-original-image-width="3000" data-original-image-height="2000" data-index="2" data-src-zoom-image="https://i.etsystatic.com/14265565/r/il/f56a68/6755789161/il_fullxfull.6755789161_dgjx.jpg"></li>
                     <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background" data-listing-image="" data-index="3" data-image-id="6707745248"><img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center image-overlay-image--landscape" alt="link GAIB4D" data-delay-src="https://i.etsystatic.com/14265565/r/il/f926f9/6707745248/il_1140xN.6707745248_mgy9.jpg" data-delay-srcset="https://i.etsystatic.com/14265565/r/il/f926f9/6707745248/il_1140xN.6707745248_mgy9.jpg 1x, https://i.etsystatic.com/14265565/r/il/f926f9/6707745248/il_1588xN.6707745248_mgy9.jpg 2x" data-original-image-width="3000" data-original-image-height="2328" data-index="3" data-src-zoom-image="https://i.etsystatic.com/14265565/r/il/f926f9/6707745248/il_fullxfull.6707745248_mgy9.jpg"></li>
