@@ -1,0 +1,288 @@
+
+
+
+
+
+<!doctype html>
+<html ⚡ lang="id">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GAIB4D: Link Situs Slot Deposit 5000 Terbaru dengan RTP Tinggi dan Game Lengkap</title>
+    <link rel="canonical" href="https://florbook.com/en/">
+    <link rel="icon" type="image/png" href="https://veldrive.com/2ScobPQy/seoteri.png">
+    <meta name="description" content="GAIB4D merupakan link situs slot deposit 5000 terbaru dengan RTP tinggi, menyediakan game slot lengkap dari provider populer, sistem transaksi cepat, aman, dan cocok untuk pemain dengan modal kecil.">
+    <meta name="keywords" content="Gaib4D, situs Gaib4D, Gaib4D login, Gaib4D daftar">
+    <meta name="author" content="Gaib4D">
+    <meta name="robots" content="index, follow">
+    <meta property="og:site_name" content="Gaib4D" />
+    <meta property="og:title" content="GAIB4D: Link Situs Slot Deposit 5000 Terbaru dengan RTP Tinggi dan Game Lengkap" />
+    <meta property="og:url" content="https://florbook.com/en/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:description" content="GAIB4D merupakan link situs slot deposit 5000 terbaru dengan RTP tinggi, menyediakan game slot lengkap dari provider populer, sistem transaksi cepat, aman, dan cocok untuk pemain dengan modal kecil." />
+    <meta property="og:image" content="https://veldrive.com/6qssXvXg/gaib4d5000.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+    <style amp-custom>
+      :root {
+        --bg-dark: #000000;
+        --cabinet-color: #1a1a1a;
+        --text-primary: #ee2727;
+        --accent-cyan: #000202;
+        --accent-magenta: #20c40a;
+        --accent-yellow: #FFFF00;
+        --accent-red: #D40A0A;
+      }
+
+      body {
+        font-family: 'Press Start 2P', cursive;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+        margin: 0;
+        padding: 20px;
+        background-color: var(--bg-dark);
+        color: var(--text-primary);
+        background-image: 
+          radial-gradient(ellipse at center, rgba(0, 50, 50, 0.3), transparent 70%),
+          linear-gradient(90deg, rgba(0, 255, 255, 0.1) 1px, transparent 1px),
+          linear-gradient(rgba(0, 255, 255, 0.1) 1px, transparent 1px);
+        background-size: 100% 100%, 50px 50px, 50px 50px;
+        text-transform: uppercase;
+        overflow-x: hidden;
+      }
+
+      .header {
+        width: 100%;
+        max-width: 400px;
+        background: linear-gradient(145deg, #2a2a2a, #a302c4);
+        border: 2px solid #333;
+        border-radius: 20px 20px 10px 10px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.7), inset 0 2px 2px rgba(255, 255, 255, 0.05);
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+      }
+
+      .logo {
+        max-width: 200px;
+      }
+
+      .logo-area {
+        background-color: #f332e9;
+        padding: 15px 10px;
+        text-align: center;
+        border-radius: 5px;
+        border: 2px solid #111;
+		box-shadow: inset 0 0 25px rgba(0,0,0,0.8);
+      }
+
+      .screen-area {
+        background-color: #ffffff;
+        padding: 15px;
+        border-radius: 10px;
+        border: 3px solid #111;
+        box-shadow: inset 0 0 15px rgba(0,0,0,0.8);
+        position: relative;
+        overflow: hidden;
+      }
+      
+      .scanline-overlay {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 200%; /* Make it taller to animate smoothly */
+        background: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0.4) 50%, rgba(0,0,0,0) 100%);
+        background-size: 100% 4px;
+        animation: scanline 10s linear infinite;
+        pointer-events: none;
+        z-index: 2;
+      }
+
+      @keyframes scanline {
+        0% { transform: translateY(-50%); }
+        100% { transform: translateY(0); }
+      }
+
+      .banner {
+        width: 100%;
+        border-radius: 5px;
+        display: block;
+        cursor: pointer;
+      }
+
+      .control-panel {
+        background-color: #222;
+        padding: 30px 20px;
+        border-radius: 5px;
+        transform: perspective(200px) rotateX(20deg);
+        box-shadow: 0 5px 10px rgba(0,0,0,0.5);
+        border: 2px solid #333;
+      }
+      
+      .buttons {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        width: 100%;
+      }
+      
+      .button {
+        font-family: 'Press Start 2P', cursive;
+        font-size: 0.8rem;
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        cursor: pointer;
+        transition: all .1s ease-out;
+        text-decoration: none;
+        border-style: solid;
+        border-width: 5px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        line-height: 1.2;
+        position: relative;
+      }
+
+      .button:active {
+        transform: translateY(3px);
+        box-shadow: none;
+      }
+
+      .button-primary {
+        background: radial-gradient(circle, #ff3333, var(--accent-cyan));
+        color: var(--bg-dark);
+        border-color: #ff0202;
+        box-shadow: 0 5px 0 #ff0101, 0 8px 15px rgb(255, 0, 0);
+      }
+      
+      .button-secondary {
+        background: radial-gradient(circle, #3cff00, var(--accent-magenta));
+        color: var(--text-primary);
+        border-color: #3cff00;
+        box-shadow: 0 5px 0 #000000, 0 8px 15px 3cff00(255, 0, 255, 0.5);
+      }
+
+      .insert-coin-area {
+        padding: 10px;
+        margin-top: 10px;
+        text-align: center;
+      }
+
+      .insert-coin {
+        display: inline-flex;
+        align-items: center;
+        gap: 10px;
+        background-color: #111;
+        padding: 5px 15px;
+        border-radius: 5px;
+        border: 2px solid #333;
+      }
+      
+      .insert-coin span {
+        font-size: 10px;
+        color: #888;
+      }
+
+      .coin-light {
+        width: 10px;
+        height: 10px;
+        background-color: var(--accent-yellow);
+        border-radius: 50%;
+        box-shadow: 0 0 8px var(--accent-yellow);
+        animation: blink 1.5s infinite;
+      }
+
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.3; }
+      }
+      
+      footer {
+        width: 100%;
+        max-width: 400px;
+        text-align: center;
+        margin-top: 2rem;
+      }
+
+      footer p {
+        color: #888;
+        font-size: 10px;
+        text-transform: none;
+        text-shadow: none;
+      }
+
+      footer a {
+        color: var(--text-primary);
+        text-decoration: none;
+      }
+      footer a:hover {
+        color: var(--accent-yellow);
+      }
+    </style>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "GAIB4D: Link Situs Slot Deposit 5000 Terbaru dengan RTP Tinggi dan Game Lengkap",
+        "image": "https://veldrive.com/6qssXvXg/gaib4d5000.png",
+        "datePublished": "2025-09-12",
+        "dateModified": "2025-09-12",
+        "author": {
+            "@type": "Organization",
+            "name": "Gaib4D"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Gaib4D",
+            "logo": {
+            "@type": "ImageObject",
+            "url": "https://veldrive.com/2ScobPQy/seoikanteri.png"
+            }
+        },
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://florbook.com/en/"
+        }
+    }
+    </script>
+  </head>
+  <body>
+    <div class="header">
+      <div class="logo-area">
+        <amp-img class="logo" src="https://veldrive.com/2ScobPQy/seoikanteri.png" width="200" height="150" alt="Logo Gaib4D"></amp-img>
+      </div>
+      <div class="screen-area">
+        <div class="scanline-overlay"></div>
+        <amp-img class="banner" src="https://veldrive.com/6qssXvXg/gaib4d5000.png" width="300" height="300" alt="Gaib4D Slot" layout="responsive"></amp-img>
+      </div>
+      <div class="control-panel">
+        <div class="buttons">
+          <a href="https://rebrand.ly/daftargaib4d" target="_blank" rel="noopener noreferrer nofollow" class="button button-primary">Press Login</a>
+          <a href="https://rebrand.ly/daftargaib4d" target="_blank" rel="noopener noreferrer nofollow" class="button button-secondary">Select Daftar</a>
+        </div>
+      </div>
+      <div class="insert-coin-area">
+        <div class="insert-coin">
+          <div class="coin-light"></div>
+          <span>Gaib4D TERGACOR</span>
+        </div>
+      </div>
+    </div>
+    <footer>
+      <p>© 2025 <a href="https://florbook.com/en/">Gaib4D</a> Resmi 2025.</p>
+    </footer>
+  </body>
+</html>
+
